@@ -1,0 +1,39 @@
+body{
+    background-color: #FFF7ED;
+    color: #3B1F14;
+}
+header{
+    background-color: #F97316;
+    padding: 30px;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.para{
+    color: white;
+}
+.head{
+    color: white;
+    text-decoration: none;
+    border: solid;
+    border-radius: 10%;
+    padding: 5px;
+}
+div{
+    text-align: center;
+    padding: 30px;
+}
+footer{
+    background-color: #3B1F14;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+.main{
+    border: #F97316 solid;
+    text-decoration: none;
+    color: #F97316;
+    padding: 5px;
+    border-radius: 10%;
+}

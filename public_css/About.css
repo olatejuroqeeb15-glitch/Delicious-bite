@@ -1,0 +1,41 @@
+body{
+    background-color:#FFF7ED;
+    margin: 0;
+    color: #3B1F14;
+}
+header{
+    background-color: #F97316;
+    padding: 30px;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.red{
+    color: white;
+} 
+.head{
+    text-decoration: none;
+    color: white;
+    border: solid;
+    border-radius: 10%;
+    padding: 5px;
+}
+div{
+    padding: 30px;
+    text-align: center;
+}
+footer{
+    background-color: #3B1F14;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+.man{
+    border: #F97316 solid;
+    padding: 5px;
+    text-decoration: none;
+    color: #F97316;
+    border-radius: 10%;
+}
+

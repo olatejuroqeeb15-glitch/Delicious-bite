@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    background-color: #FFF7ED;
+    color: #3B1F14;
+}
+header{
+    background-color: #F97316;
+    padding: 30px;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.style{
+    color: white;
+}
+.head{
+    color: white;
+    border: solid;
+    text-decoration: none;
+    border-radius: 10%;
+    padding: 5px;
+}
+div{
+    padding: 30px;
+    text-align: center;
+}
+footer{
+    padding: 25px;
+    background-color: #3B1F14;
+    color: white;
+    text-align: center;
+}
+.order{
+    border: solid #F97316 ;
+    padding: 5px;
+    text-decoration: none;
+    color: #F97316;
+    border-radius: 10%;
+}
+.jollof{
+    border: solid #F97316;
+    padding: 10px;
+}
+.fried{
+    border: #F97316 solid;
+    padding: 10px;
+}
+.chips{
+    border: #F97316 solid;
+    padding: 10px;
+}
+.beef{
+    border: #F97316 solid;
+    padding: 10px;
+}
+.pizza{
+    border: #F97316 solid;
+    padding: 10px;
+}
+.orange{
+    border: #F97316 solid;
+    padding: 10px;
+}
+.fruit{
+    border: #F97316 solid;
+    padding: 10px;
+}
+.choco{
+    border: #F97316 solid;
+    padding: 10px;
+}
+.soft{
+    border: #F97316 solid;
+    padding: 10px;
+}
+    

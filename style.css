@@ -1,0 +1,68 @@
+.blue{
+    width: 100px;
+    margin-top: 5%;
+    margin-right: 70%;
+    border:solid ;
+    padding: 2%;
+    border-radius: 10%;
+}
+body{
+    margin: 0%;
+    background-color: #FFF7ED;
+    color:#3B1F14;
+
+}
+header{
+    background-color: #F97316;
+    padding: 30px;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.br{
+    color: white;
+}
+.head{
+    color: white;
+    text-decoration: none;
+    border: #FFF7ED solid;
+    border-radius: 10%;
+    padding: 5px;
+}
+.main{
+    text-align: center;
+    padding: 30px;
+    border: #F97316 solid;
+    margin: 10%;
+}
+.menu{
+    border: #F97316 solid;
+    padding: 7px;
+    color: #F97316;
+    text-decoration: none;
+    border-radius: 10%;
+}
+#men{
+    padding: 30px;
+}
+#about{
+    padding: 30px;
+}
+#Contact{
+    padding: 30px;
+}
+footer{
+    background-color: #3b1f14;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+.anchor{
+    border: #F97316 solid;
+    padding: 8px;
+    color: #F97316;
+    text-decoration: none;
+    border-radius: 10%;
+
+}
